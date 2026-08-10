@@ -1,5 +1,5 @@
 def greet():
-    return "Hello, CI/CD! 🚀"
+    return "Hello, CI/CD!"
 
 
 if __name__ == "__main__":
